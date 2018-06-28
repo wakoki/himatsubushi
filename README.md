@@ -11,4 +11,8 @@ CNNを実装する練習.
 ## reshape_test.ipynb  
 tensorflow.reshapeとndarray.reshapeの出力が一致するのかどうかを確かめたくて書いたコード.  
 結果的にはたぶん同じっぽい？  
+## four_arithmetic.ipynb  
+前回足し算をする簡単なNNを作ったので,今回は四則演算すべてを一つのNNにまとめてみた.  
+割り算以外はほぼほぼ良いが、割り算は他に比べて少し（+-1未満くらい）エラーが大きい.  
+
 
